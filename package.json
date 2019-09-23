@@ -1,0 +1,25 @@
+{
+  "name": "9an3ah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "app": "nodemon server.js"
+  },
+  "author": "Obeidat Sqoor Rasher Roaa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1",
+    "node": "^12.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
